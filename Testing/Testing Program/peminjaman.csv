@@ -1,0 +1,6 @@
+Username,ID_Buku,Tanggal_Peminjaman,Tanggal_Batas_Pengembalian,Status_Pengembalian
+penguin,1234,01/01/2019,20/01/2019,false
+lenovo,9999,30/03/2019,02/04/2020,true
+bytecone,112233,17/04/2019,24/04/2019,true
+bytecone,1661,19/04/2019,26/04/2019,false
+guarani,1234,23/04/2019,30/04/2019,true
